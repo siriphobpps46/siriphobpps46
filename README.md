@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-- 🎓 I have graduated with a Bachelor of Engineering (B.Eng.) in ***Computer Engineering***.
+- 🎓 I have graduated with a Bachelor of Engineering (B.Eng.) in ***Computer Engineering*** at ***Suranaree University of Technology***.
 - 🚀 I'm passionate about:
   - System Analysis and Design
   - Software Engineering
