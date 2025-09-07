@@ -1,71 +1,186 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Meanie" alt="Typing SVG" />
-</p>
+# 💫 Meanie
 
-<p align="center">
-  <strong>Software Developer at Compattana Co.,Ltd.</strong><br />
-  <strong>CPE #26 | SUT #29</strong>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%9A%80;Full+Stack+Engineer+%E2%9A%A1;System+Designer+%F0%9F%8E%AF;Welcome+to+my+profile!+%F0%9F%91%8B" alt="Typing Animation" />
+</div>
 
----
-
-## 🧠 About Me
-
-- 🎓 I have graduated with a Bachelor of Engineering (B.Eng.) in ***Computer Engineering*** at ***Suranaree University of Technology***.
-- 🚀 I'm passionate about:
-  - System Analysis and Design
-  - Software Engineering
-  - Full Stack Development
----
-
-## 🛠️ Tech Stack
-
-### 📋 Languages  
-<p align="start">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-</p>
-
-### 📚 Frameworks, Platforms and Libraries  
-<p align="start">
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-</p>
-
-### 💾 Databases  
-<p align="start">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### 🧰 Tools & Other  
-<p align="start">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker--compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker--hub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Workflows-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=GoDaddy&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Compattana_Co.,Ltd-Software_Developer-6C63FF?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/SUT_29-Computer_Engineering-FF6B6B?style=for-the-badge&labelColor=1a1a2e" />
+</div>
 
 ---
 
-<p align="center">
-  🧑‍💻 Let's connect and build something amazing together!
+## ✨ About Me
+
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+```typescript
+const meanie = {
+    education: "B.Eng. Computer Engineering @ SUT",
+    currentRole: "Software Developer @ Compattana Co.,Ltd",
+    passions: [
+        "System Analysis & Design",
+        "Software Engineering", 
+        "Full Stack Development"
+    ],
+    motto: "Building digital solutions, one line at a time ⚡"
+};
+```
+
+<br clear="both"/>
+
+## 🛠️ Tech Arsenal
+
+<details>
+<summary><b>🌐 Languages & Core</b></summary>
+<br>
+
+```yaml
+Primary:
+  - TypeScript  # Modern JS with types
+  - JavaScript  # The web foundation
+  - Go         # Backend powerhouse
+  - Python     # Data & automation
+```
+
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,go,python&theme=dark" />
 </p>
+</details>
+
+<details>
+<summary><b>⚛️ Frontend Ecosystem</b></summary>
+<br>
+
+```yaml
+Frameworks:
+  - Next.js     # React production framework
+  - React       # Component-based UI
+  - Angular     # Enterprise applications
+  - Vite        # Lightning-fast bundler
+
+UI Libraries:
+  - Ant Design  # Professional components
+  - Material-UI # Google's design system
+  - Chart.js    # Data visualization
+```
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,vite&theme=dark" />
+</p>
+</details>
+
+<details>
+<summary><b>⚙️ Backend & Infrastructure</b></summary>
+<br>
+
+```yaml
+Runtime:
+  - Node.js     # JavaScript everywhere
+  - Express.js  # Minimalist web framework
+
+Databases:
+  - MySQL       # Relational database
+  - MariaDB     # MySQL enhanced
+  - SQLite      # Embedded database
+  - MongoDB     # Document database
+  - Firebase    # Google's BaaS
+
+DevOps:
+  - Docker      # Containerization
+  - Nginx       # Web server
+  - GitHub Actions # CI/CD pipeline
+```
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,docker,nginx&theme=dark" />
+</p>
+</details>
+
+<details>
+<summary><b>🎯 Development Tools</b></summary>
+<br>
+
+```yaml
+Editor:
+  - VS Code     # Primary IDE
+
+Testing & API:
+  - Postman     # API development
+
+Cloud & Deployment:
+  - DigitalOcean # Cloud infrastructure
+  - GoDaddy     # Domain management
+
+Hardware:
+  - Arduino     # IoT projects
+```
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,digitalocean,arduino&theme=dark" />
+</p>
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siriphobpps46&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriphobpps46&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siriphobpps46&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```mermaid
+mindmap
+  root((Meanie))
+    System Design
+      Microservices
+      API Architecture
+      Database Design
+    Full Stack
+      React Ecosystem
+      Node.js Backend
+      Cloud Deployment
+    Innovation
+      New Technologies
+      Best Practices
+      Code Quality
+```
+
+---
+
+## 🌊 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siriphobpps46&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Let's+connect+and+build+something+amazing!+%F0%9F%9A%80;Always+learning%2C+always+coding+%F0%9F%92%BB;Open+to+collaboration+%F0%9F%A4%9D" alt="Footer Animation" />
+</div>
+
+<div align="center">
+  <a href="mailto:siriphob.poonprasit@compattana.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/siriphobpps46">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=siriphobpps46&color=6C63FF&style=for-the-badge&label=Profile+Views" />
+</div>
